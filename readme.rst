@@ -5,15 +5,10 @@ Pustaka Booking dibuat dengan framework Codenighter 3.
 
 Isi File Tugas : 
 
-1.Pembuatan Database
-
-2. Dashboard Admin untuk mengelola data buku, peminjaman,dll
-
-3. Pembuatan Login admin dan user yang dibedakan dengan role id
-
-4.Dapat menghubungkan database dengan dashboard secara singkron
-
-5. FrontEnd user yang menarik
-
-6.Pengeksporan file pdf dan excel
+	1.Pembuatan Database
+	2. Dashboard Admin untuk mengelola data buku, peminjaman,dll
+	3. Pembuatan Login admin dan user yang dibedakan dengan role id
+	4.Dapat menghubungkan database dengan dashboard secara singkron
+	5. FrontEnd user yang menarik
+	6.Pengeksporan file pdf dan excel
 
